@@ -8,8 +8,6 @@ config.mk
 *.dylib.0
 *.jnilib
 *.dSYM
-org/pngquant/*.class
-org/pngquant/*.h
 target/
 msvc-dist/org/
 msvc-dist/*.md
